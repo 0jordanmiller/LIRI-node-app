@@ -1,0 +1,101 @@
+"[Tweet Text: my name is mud     Tweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLth     Tweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testing     Tweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: hello     Tweet Date: Mon Jun 25 18:49:26 +0000 2018]""[Tweet Text: my name is mud     Tweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLth     Tweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testing     Tweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: hello     Tweet Date: Mon Jun 25 18:49:26 +0000 2018]"
+"[Tweet Text: my name is mud     Tweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLth     Tweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testing     Tweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: hello     Tweet Date: Mon Jun 25 18:49:26 +0000 2018]"
+"[Tweet Text: my name is mud     Tweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLth     Tweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testing     Tweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: hello     Tweet Date: Mon Jun 25 18:49:26 +0000 2018]"
+"[Tweet Text: my name is mud\nTweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLth\nTweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testing\nTweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: hello\nTweet Date: Mon Jun 25 18:49:26 +0000 2018]"
+"[Tweet Text: my name is mud                    Tweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLth                    Tweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testing                    Tweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: hello                    Tweet Date: Mon Jun 25 18:49:26 +0000 2018]"
+"Tweet Text: my name is mud\n                    Tweet Date: Tue Jun 26 02:23:19 +0000 2018""Tweet Text: https://t.co/66LvrWRLth\n                    Tweet Date: Mon Jun 25 18:50:07 +0000 2018""Tweet Text: testing\n                    Tweet Date: Mon Jun 25 18:49:55 +0000 2018""Tweet Text: hello\n                    Tweet Date: Mon Jun 25 18:49:26 +0000 2018"
+"Tweet Text: my name is mud\n                    Tweet Date: Tue Jun 26 02:23:19 +0000 2018""Tweet Text: https://t.co/66LvrWRLth\n                    Tweet Date: Mon Jun 25 18:50:07 +0000 2018""Tweet Text: testing\n                    Tweet Date: Mon Jun 25 18:49:55 +0000 2018""Tweet Text: hello\n                    Tweet Date: Mon Jun 25 18:49:26 +0000 2018"
+"Tweet Text: my name is mud\n                    Tweet Date: Tue Jun 26 02:23:19 +0000 2018""Tweet Text: https://t.co/66LvrWRLth\n                    Tweet Date: Mon Jun 25 18:50:07 +0000 2018""Tweet Text: testing\n                    Tweet Date: Mon Jun 25 18:49:55 +0000 2018""Tweet Text: hello\n                    Tweet Date: Mon Jun 25 18:49:26 +0000 2018"
+undefined"Tweet Text: my name is mud\n                    Tweet Date: Tue Jun 26 02:23:19 +0000 2018""Tweet Text: https://t.co/66LvrWRLth\n                    Tweet Date: Mon Jun 25 18:50:07 +0000 2018""Tweet Text: testing\n                    Tweet Date: Mon Jun 25 18:49:55 +0000 2018""Tweet Text: hello\n                    Tweet Date: Mon Jun 25 18:49:26 +0000 2018"
+"[Tweet Text: my name is mud     Tweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLth     Tweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testing     Tweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: hello     Tweet Date: Mon Jun 25 18:49:26 +0000 2018]"
+"[Tweet Text: my name is mudTweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLthTweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testingTweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: helloTweet Date: Mon Jun 25 18:49:26 +0000 2018]"
+"[Tweet Text: my name is mud Tweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLth Tweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testing Tweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: hello Tweet Date: Mon Jun 25 18:49:26 +0000 2018]"
+"[Tweet Text: my name is mud / Tweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLth / Tweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testing / Tweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: hello / Tweet Date: Mon Jun 25 18:49:26 +0000 2018]"
+Artist Name: Children Of BodomTrack Title: Are You Dead YetPreview URL: nullAlbum Title: Holiday At Lake Bodom, 15 Years of Wasted Youth
+ Artist Name: Morbid Angel Track Title: Chapel of Ghouls Preview URL: https://p.scdn.co/mp3-preview/e30eb34cd3346f38a89d2307eb1f4bdf891eb354?cid=3dcec5cc862c4f9297d091ebdaee086d Album Title: Altars of Madness
+Artist Name: Morbid Angel||| Track Title: Chapel of Ghouls||| Preview URL: https://p.scdn.co/mp3-preview/e30eb34cd3346f38a89d2307eb1f4bdf891eb354?cid=3dcec5cc862c4f9297d091ebdaee086d||| Album Title: Altars of Madness
+Artist Name: Iron Maiden ||| Track Title: The Trooper - 1998 Remastered Version ||| Preview URL: https://p.scdn.co/mp3-preview/1174b7e3c789d88cd328e4717f292f88e2ba6248?cid=3dcec5cc862c4f9297d091ebdaee086d ||| Album Title: Piece of Mind (1998 Remastered Version)
+Artist Name: Rise Against ||| Track Title: Swing Life Away ||| Preview URL: null ||| Album Title: Siren Song Of The Counter-Culture
+"[Tweet Text: my name is mud / Tweet Date: Tue Jun 26 02:23:19 +0000 2018]""[Tweet Text: https://t.co/66LvrWRLth / Tweet Date: Mon Jun 25 18:50:07 +0000 2018]""[Tweet Text: testing / Tweet Date: Mon Jun 25 18:49:55 +0000 2018]""[Tweet Text: hello / Tweet Date: Mon Jun 25 18:49:26 +0000 2018]"
+Title: Fantastic Beasts and Where to Find Them
+Release date: 18 Nov 2016
+Rotten Tomatoes Rating: 74%
+Country: UK, USA
+Language: English, Khmer
+Plot: The adventures of writer Newt Scamander in New York's secret community of witches and wizards seventy years before Harry Potter reads his book in school.
+Actors: Eddie Redmayne, Sam Redford, Scott Goldman, Tim Bentinck
+Artist Name: Children Of Bodom
+Track Title: Are You Dead Yet ||| Preview URL: null ||| Album Title: Holiday At Lake Bodom, 15 Years of Wasted Youth
+"Tweet Text: my name is mud\nTweet Date: Tue Jun 26 02:23:19 +0000 2018""Tweet Text: https://t.co/66LvrWRLth\nTweet Date: Mon Jun 25 18:50:07 +0000 2018""Tweet Text: testing\nTweet Date: Mon Jun 25 18:49:55 +0000 2018""Tweet Text: hello\nTweet Date: Mon Jun 25 18:49:26 +0000 2018"
+"Tweet Text: my name is mud\nTweet Date: Tue Jun 26 02:23:19 +0000 2018""Tweet Text: https://t.co/66LvrWRLth\nTweet Date: Mon Jun 25 18:50:07 +0000 2018""Tweet Text: testing\nTweet Date: Mon Jun 25 18:49:55 +0000 2018""Tweet Text: hello\nTweet Date: Mon Jun 25 18:49:26 +0000 2018"
+Artist Name: Death
+Track Title: Crystal Mountain
+Preview URL: https://p.scdn.co/mp3-preview/6fdca6a1783e750afd9208092810147362b7e8f8?cid=3dcec5cc862c4f9297d091ebdaee086d
+Album Title: Symbolic (Remastered Version)
+Title: Coco
+Release date: 22 Nov 2017
+Rotten Tomatoes Rating: 97%
+Country: USA
+Language: English, Spanish
+Plot: Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.
+Actors: Anthony Gonzalez, Gael García Bernal, Benjamin Bratt, Alanna Ubach
+
+Artist Name: Carcass
+Track Title: Corporal Jigsore Quandary
+Preview URL: https://p.scdn.co/mp3-preview/6dfd33289da8cd53b5ad0b1cedfed511aa1622de?cid=3dcec5cc862c4f9297d091ebdaee086d
+Album Title: Necroticism - Descanting the Insalubrious
+
+Artist Name: $WAGGOT
+Track Title: MY TUMBLR
+Preview URL: https://p.scdn.co/mp3-preview/6f0173b6e1672f78ad5437ad01e227e0bef9f400?cid=3dcec5cc862c4f9297d091ebdaee086d
+Album Title: New Folder (5)
+"Tweet Text: my name is mud\nTweet Date: Tue Jun 26 02:23:19 +0000 2018""Tweet Text: https://t.co/66LvrWRLth\nTweet Date: Mon Jun 25 18:50:07 +0000 2018""Tweet Text: testing\nTweet Date: Mon Jun 25 18:49:55 +0000 2018""Tweet Text: hello\nTweet Date: Mon Jun 25 18:49:26 +0000 2018"
+Tweet Text: my name is mud
+Tweet Date: Tue Jun 26 02:23:19 +0000 2018Tweet Text: https://t.co/66LvrWRLth
+Tweet Date: Mon Jun 25 18:50:07 +0000 2018Tweet Text: testing
+Tweet Date: Mon Jun 25 18:49:55 +0000 2018Tweet Text: hello
+Tweet Date: Mon Jun 25 18:49:26 +0000 2018
+
+Tweet Text: my name is mud
+Tweet Date: Tue Jun 26 02:23:19 +0000 2018
+Tweet Text: https://t.co/66LvrWRLth
+Tweet Date: Mon Jun 25 18:50:07 +0000 2018
+Tweet Text: testing
+Tweet Date: Mon Jun 25 18:49:55 +0000 2018
+Tweet Text: hello
+Tweet Date: Mon Jun 25 18:49:26 +0000 2018
+
+Tweet Text: my name is mud
+Tweet Date: Tue Jun 26 02:23:19 +0000 2018
+
+Tweet Text: https://t.co/66LvrWRLth
+Tweet Date: Mon Jun 25 18:50:07 +0000 2018
+
+Tweet Text: testing
+Tweet Date: Mon Jun 25 18:49:55 +0000 2018
+
+Tweet Text: hello
+Tweet Date: Mon Jun 25 18:49:26 +0000 2018
+
+TWEETS------------------
+Tweet Text: my name is mud
+Tweet Date: Tue Jun 26 02:23:19 +0000 2018
+TWEETS------------------
+Tweet Text: https://t.co/66LvrWRLth
+Tweet Date: Mon Jun 25 18:50:07 +0000 2018
+TWEETS------------------
+Tweet Text: testing
+Tweet Date: Mon Jun 25 18:49:55 +0000 2018
+TWEETS------------------
+Tweet Text: hello
+Tweet Date: Mon Jun 25 18:49:26 +0000 2018
+
+
+Artist Name: Children Of Bodom
+Track Title: Are You Dead Yet
+Preview URL: null
+Album Title: Holiday At Lake Bodom, 15 Years of Wasted Youth
+Artist Name: Backstreet Boys
+Track Title: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3dcec5cc862c4f9297d091ebdaee086d
+Album Title: The Hits--Chapter One
